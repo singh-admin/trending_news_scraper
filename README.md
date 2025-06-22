@@ -52,12 +52,12 @@ You don’t need to manually call the `/scrape` endpoint unless you want to forc
 git clone https://github.com/singh-admin/trending-news-scraper.git
 cd trending-news-scraper
 
+
 ## 📽️ Demo
 
 Here’s a quick demo of the trending news scraper fetching and storing data in MongoDB:
 
-![News Scraper Demo] (FastAPI - Swagger UI - 21 June 2025 - Watch Video
+![News Scraper Demo](news_scrapper.gif)
 
-)(https://www.loom.com/share/abcd1234efgh5678ijkl)
 
 
