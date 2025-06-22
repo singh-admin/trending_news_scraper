@@ -57,4 +57,4 @@ cd trending-news-scraper
 
 Here’s a quick demo of the trending news scraper fetching and storing data in MongoDB:
 
-![News Scraper Demo](news_scrapper.gif)
+<img src="https://github.com/singh-admin/trending_news_scraper/blob/9cad2619fa380e4d430eba76b2d2d933b01a1ca2/news_scrapper.gif?raw=true" width="600" alt="News Scraper Demo">
